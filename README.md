@@ -5,11 +5,3 @@ I’m a software engineer that comes from a physics engineer background. Having 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thangnt294&exclude_repo=ttkt,trames-fe-docker,ttkt-deploy,express-test,invest-management,create-react-app-tokenize,brain,english-quizzes,ricey,ai-assignment&hide=SCSS&layout=compact&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="Crying" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJjN2VmM2U2MTFhOGJjOWY4NTRiYjZiNjM0OThjY2Y3YTk1YzQyYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/9Q2bw5P35IZjLUKMYk/giphy.gif">
 
 [![thangnt294's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangnt294&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thangnt294" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/thangnt294/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="[your link](https://www.instagram.com/thangnt294/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/thang294" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-</p>
